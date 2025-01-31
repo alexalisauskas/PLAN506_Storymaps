@@ -10,7 +10,7 @@ has_toc: true
 An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions. If you want to include any dynamic maps that include layer data in your StoryMap you will need to create it through ArcGIS online first. Sign into ArcGIS Online and select Map in the top banner to get started creating a webmap. 
 
 {: .note}
-The public account and organization account have different user interface and functions. The public account do not have access to some functions, include any spatial analysis tools.
+The public account and organization account have different user interface and functions. The public account do not have access to some functions, including any spatial analysis tools.
 
 ## Getting Started
 
