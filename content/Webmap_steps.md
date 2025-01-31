@@ -16,7 +16,7 @@ The public account and organization account have different user interface and fu
 
 Zoom to the area of interest you want to work on. Select Save and Open and Save as to anchor your map and create your new map. Give it a name.
 
-![click_on_ribbon](images/WebmapZoompng)
+<img src="images/WebmapZOom.png" alt="fig1" style="width:400px;"/>
 
 Whenever you open a new map in ArcGIS Online, it will open with a default Topographic basemap. Select Basemap on the left, and choose the option that best suits your data needs.
 
