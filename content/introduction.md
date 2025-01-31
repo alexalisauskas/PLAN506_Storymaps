@@ -4,18 +4,14 @@ title: Introduction
 nav_order: 3
 ---
 
-### [Story Map](https://storymaps.arcgis.com/)
-[ArcGIS StoryMaps (https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm)] is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Story Map enables multimedia cartography and allows users to tell a story with interactive map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
-
-Check out this example Storymap, [White Rock Lake Fire 9https://storymaps.arcgis.com/stories/ea8c2979aeb84539a9fc7dda1f6ad6cf0].
-
-### [Web Map](https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm)
-ArcGIS Online is a platform for web GIS accessed through a website in a browser. Everything you do in ArcGIS Online is processed and stored on web servers, not the computer you are accessing through. 
-
-To add interactive maps to your Storymap, you will first have to create them as ArcGIS online web maps. An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions. Maps contain a basemap, a set of data layers (many of which include interactive pop-up windows with information about the data), an extent, and navigation tools to pan and zoom. In general, the basemap and layers are hosted and shared through ArcGIS Online. However, maps can also contain layers added directly to the map and layers and basemaps referenced externally. Many maps also contain scaled symbols and other smart styling that reveal data and patterns as you interact with it.
+### **Overview of ArcGIS Online**
+## [Web Map](https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm)
+According to ESRI: "An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions...Maps contain a basemap, a set of data layers (many of which include interactive pop-up windows with information about the data), an extent, and navigation tools to pan and zoom. In general, the basemap and layers are hosted and shared through ArcGIS Online. However, maps can also contain layers added directly to the map and layers and basemaps referenced externally. Many maps also contain scaled symbols and other smart styling that reveal data and patterns as you interact with it."
 
 <iframe src='https://www.arcgis.com/apps/instant/basic/index.html?appid=23193586bdc34314a976d475e2cb867e' width="100%" height="500" style="border:none;">
 </iframe>
+
+## [Story Map](https://storymaps.arcgis.com/)
 
 ### **Why Choose ArcGIS Online?**
 - No install necessary
@@ -24,9 +20,20 @@ To add interactive maps to your Storymap, you will first have to create them as 
 - Can collaborate on and share maps
 - Can easily embed web maps, apps, and story maps in websites
 
-### **ArcGIS and Storymaps Public vs. Enterprise**
+### **ArcGIS Free vs. Enterprise Account**
 
+An ArcGIS free account can be created by anyone and is intended for noncommercial, nongovernmental use. When using ArcGIS StoryMaps with a public account, some advanced storytelling and customization features are **not available**, including:
 
+- embedding web pages
+- customizing story theme and logo
+- Google analytics tracking ID
+- including Audio
+- image galleries
+- timelines
+
+You can still include images and video, embed map tours, and use the swipe tool.
+
+A free account on ArcGIS online does not allow you to do any spatial analysis on your webmap like you could on a desktop GIS.
 
 ### **Supported Data Type of ArcGIS Online**
 
