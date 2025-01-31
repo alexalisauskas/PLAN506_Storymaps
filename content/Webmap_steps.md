@@ -1,27 +1,27 @@
 ---
 layout: default
 title: Create a Web Map
-nav_order: 7
+nav_order: 3
 has_children: true
 has_toc: true
 ---
-## Create a Web Map
+### Create a Web Map
 
-An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions. Please sign into the ArcGIS online account before proceeding to the next step.
-
+An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions. If you want to include any dynamic maps that include layer data in your StoryMap you will need to create it through ArcGIS online first. Sign into ArcGIS Online and select Map in the top banner to get started creating a webmap. 
 
 {: .note}
-The public account and organization account have different user interface and functions. The public account do not have access to some functions, please be mindful with the following hands-on steps.
+The public account and organization account have different user interface and functions. The public account do not have access to some functions, include any spatial analysis tools.
 
-*1*{: .circle .circle-blue} From the ribbon at the top of the page, click on the Map tab. This will open a new map.
-![click_on_ribbon](images/click_on_ribbon.png)
+## Getting Started
 
-![map_view](images/Map.png)
+Zoom to the area of interest you want to work on. Select Save and Open and Save as to anchor your map and create your new map. Give it a name.
 
-*2*{: .circle .circle-blue} Feel free to play around with interactive icons and the tools from sidebar. 
+![click_on_ribbon](images/WebmapZoompng)
 
+Whenever you open a new map in ArcGIS Online, it will open with a default Topographic basemap. Select Basemap on the left, and choose the option that best suits your data needs.
 
-[Review from previous AGOL workshop](https://ubc-library-rc.github.io/intro-AGOL/content/create-a-web-map.html)
+## More Resources
+[ArcGIS Online Workshop from UBC Library](https://ubc-library-rc.github.io/intro-AGOL/content/create-a-web-map.html)
 
 
 
