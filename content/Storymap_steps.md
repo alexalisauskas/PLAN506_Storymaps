@@ -24,11 +24,11 @@ The Storymap Content blocks and features will we cover include:
     - Add a Separator
 - Embed media
     - Add an image or video
-- Embed immersive content and media (further instructions on this site)
+- Embed immersive content and media (further instructions on next page for these features)
     - Sidecar
-    - Map Tour
-    - Swipe
     - Map
+    - Swipe
+    - Map Tour
 - Preview the Storymap
 - Publish and share the story map
   
