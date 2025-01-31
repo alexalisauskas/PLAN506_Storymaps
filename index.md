@@ -14,16 +14,13 @@ nav_order: 1
 
 ArcGIS Online is a cloud-based software that allows you to organize and create GIS projects, which can come in the form of story maps, GIS files created with desktop applications, web maps (more on those below), and more. 
 
-ArcGIS Online offers two tiers of accounts: Public and Organizational. Public accounts are free and they grant you access to most of the features in ArcGIS Online, including the ability to create web maps, story maps, scenes, apps, and public groups. An Organizational account grants you extra privileges, including access to Living Atlas Layers, built-in analyses for Web Maps, uploading hosted layers from GIS files, and more.
-
-Today we will be looking at the Public account features for webmaps and Storymaps.
-
 If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account. <https://www.arcgis.com/index.html>
 
  [Log in with the organization's URL](./setup_url)
 
  [Create an ArcGIS Public Account](./setup_public)
 
+Today we will be focusing on features in the Public account.
 
 ## Resources
 
