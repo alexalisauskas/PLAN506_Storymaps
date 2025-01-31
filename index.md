@@ -16,10 +16,10 @@ ArcGIS Online is a cloud-based software that allows you to organize and create G
 
 If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account. <https://www.arcgis.com/index.html>
 
- [Log in with the organization's URL](./setup_url)
+[Log in with the organization's URL](https://www.arcgis.com/sharing/oauth2/authorize?client_id=arcgisonline&response_type=code&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwww.arcgis.com%22%2C%22uid%22%3A%22YsTzt8rMC18pDVEZTAUNzWTdQL6bHaPE8ye6wUF12TM%22%2C%22useLandingPage%22%3Atrue%2C%22clientId%22%3A%22arcgisonline%22%7D&expiration=20160&locale=en-ca&redirect_uri=https%3A%2F%2Fwww.arcgis.com%2Fhome%2Faccountswitcher-callback.html&force_login=true&redirectToUserOrgUrl=true&code_challenge=8NKoRZDM55W9Yo6QWcPPhML3G63gqbMmlizMLlchD98&code_challenge_method=S256&display=default&hideCancel=true&showSignupOption=true&canHandleCrossOrgSignIn=true&signuptype=esri&allow_verification=true).
 
- [Create an ArcGIS Public Account](./setup_public)
-
+[Create an ArcGIS Public Account](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token)
+ 
 Today we will be focusing on features in the Public account.
 
 ## Resources
