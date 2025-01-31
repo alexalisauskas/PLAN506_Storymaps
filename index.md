@@ -9,6 +9,9 @@ nav_order: 1
 - Gain a basic understanding of ArcGIS online map creation, including adding layers and simple styling and visualization options, and creating maps to embed in Storyamps
 - Learn about places to find basic data you can add to your webmaps
 
+
+## Resources
+
 #### GIS Resources at UBC:
 - General Informational website for all things UBC GIS: [gis.ubc.ca](http://gis.ubc.ca/)
 - UBC Library's guide for finding and working with GIS resources: [guides.library.ubc.ca/gis](http://guides.library.ubc.ca/gis)
