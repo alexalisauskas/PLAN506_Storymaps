@@ -33,9 +33,9 @@ An ArcGIS free account can be created by anyone and is intended for noncommercia
 - image galleries
 - timelines
 
-You can still include images and video, embed map tours, and use the swipe tool.
+You can still include images and video, embed map tours, and use the swipe tool. You can read more about features on the [ArcGIS Storymap Licensing page (https://doc.arcgis.com/en/arcgis-storymaps/reference/licensing.htm)].
 
-A free account on ArcGIS online does not allow you to do any spatial analysis on your webmap like you could on a desktop GIS, however it does allow styling, filtering, etc.
+A free account on ArcGIS online does not allow you to do any spatial analysis on your webmap like you could on a desktop GIS, however it does allow styling, filtering, etc. 
 
 ### **Supported Data Type of ArcGIS Online**
 
