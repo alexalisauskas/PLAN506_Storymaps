@@ -16,7 +16,9 @@ You can embed a **webnamap** that you've created on ArcGIS Online in your StoryM
 
 ### Swipe
 You can use the Swipe to let readers easily compare two maps (webmap or express) or images with an interactive slider. This is great to show changes over time. 
-**Note**: There is a limit on the size of image you can upload, so if you are planning on using raster images, they may need to be resized.
+
+{: .note}
+There is a limit on the size of image you can upload, so if you are planning on using raster images, they may need to be resized.
 
 ### Map tour
 You can create a **map tour** to showcase a set of places your readers can explore in any order, or be led through one at a time. C
