@@ -10,7 +10,7 @@ An ArcGIS web map is an interactive display of geographic information that you c
 
 The example webmap below includes several layers and styles.
 
-<!-- Add script to the <head> of your page to load the embeddable map component --><script type="module" src="https://js.arcgis.com/embeddable-components/4.31/arcgis-embeddable-components.esm.js"></script><!-- Add custom element to <body> of your page --> <arcgis-embedded-map style="height:600px;width:700px;" item-id="95a2288992a943a39f9f41e1d5cf2dcc" theme="light" portal-url="https://www.arcgis.com" legend-enabled ></arcgis-embedded-map>
+<arcgis-embedded-map style="height:600px;width:700px;" item-id="95a2288992a943a39f9f41e1d5cf2dcc" theme="light" portal-url="https://www.arcgis.com" ></arcgis-embedded-map>
 
 ## [Story Map](https://storymaps.arcgis.com/)
 
