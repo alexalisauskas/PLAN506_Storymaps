@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create a ArcGIS Online Storymap
-nav_order: 11
+nav_order: 5
 has_children: true
 has_toc: true
 ---
@@ -9,31 +9,27 @@ has_toc: true
 
 To start a Storymap from scratch, go to [Story Maps](https://storymaps.arcgis.com/stories) and click on New Story.
 
-Or from the top left of your web map, click on the three horizontal lines dropdown arrow and then right-click on **Content**. Click on the **Create app** and select **ArcGIS Storymaps**.
+<img src="images/StorymapStart.png" alt="fig1" style="height: 300px; width:400px;"/>
 
-<img src="images/story1.png" alt="fig1" style="height: 300px; width:400px;"/>
+Or from the top left of your [ArcGIS Online homepage](https://www.arcgis.com/), select **Content** on the top banner. Click on the **Create app** and select **ArcGIS Storymaps**.
 
+<img src="images/ContentPage.png" alt="fig1" style="height: 300px; width:400px;"/>
 
-The Storymap Content blocks and features will be covered in this section:
-- Configure themes and add a logo (Subscription only)
-- Preview the Storymap
+You can start from scratch and build your own, but they also provide StoryMap templates that begin your StoryMap with a Sidecar, Guided Map Tour or Explorer Map Tour.
+
+The Storymap Content blocks and features will we cover include:
+- Configure themes and cover
 - Add basic features
     - Add title, subtitle, and Text
     - Add a Separator
-- Embed media
-    - Add a video
-    - Add a Timeline (Subscription only)
+    - Add a map
+    - Swipe
 - Embed immersive content and media
     - Sidecar
-        - Add texts
-        - Add maps
-    - Slideshow
-        - Swipe
-        - Single color background and add text
     - Map Tour
-        - Insert a link 
-        - Add a button
+- Embed media
+    - Add an image or video
+- Preview the Storymap
 - Publish and share the story map
-
-
+  
 [Check out the example Storymap](https://storymaps.arcgis.com/stories/9d2a3452e2a141399ae6226a627b4a36)
