@@ -16,7 +16,7 @@ nav_order: 1
 - Contact UBC Library’s Geospatial team: `library.gis@ubc.ca`
 - Schedule a 1:1 consult with the geospatial team [here](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt)
 
-## ArcGIS Online and Storymaps Resources
+#### ArcGIS Online and Storymaps Resources
 * ArcGIS General Storymaps Resources: [https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/resources]
 * ArcGIS Getting Started with Storymaps: [https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4]
 * ArcGIS Online Getting Started with Creating Maps: [https://doc.arcgis.com/en/arcgis-online/get-started/get-started-with-maps-mv.htm]
