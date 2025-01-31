@@ -5,9 +5,9 @@ nav_order: 3
 ---
 
 ### [Story Map](https://storymaps.arcgis.com/)
-[ArcGIS StoryMap] (https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm) is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Story Map enables multimedia cartography and allows users to tell a story with interactive map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
+[ArcGIS StoryMap](https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm) is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Story Map enables multimedia cartography and allows users to tell a story with interactive map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
 
-Check out this example Storymap, [White Rock Lake Fire] (https://storymaps.arcgis.com/stories/ea8c2979aeb84539a9fc7dda1f6ad6cf0).
+Check out this example StoryMap, [White Rock Lake Fire](https://arcg.is/0mSqvb0).
 
 ### [Web Map](https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm)
 According to ESRI: "An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions...Maps contain a basemap, a set of data layers (many of which include interactive pop-up windows with information about the data), an extent, and navigation tools to pan and zoom. In general, the basemap and layers are hosted and shared through ArcGIS Online. However, maps can also contain layers added directly to the map and layers and basemaps referenced externally. Many maps also contain scaled symbols and other smart styling that reveal data and patterns as you interact with it."
@@ -33,7 +33,7 @@ An ArcGIS free account can be created by anyone and is intended for noncommercia
 - image galleries
 - timelines
 
-You can still include images and video, embed map tours, and use the swipe tool. You can read more about features on the [ArcGIS Storymap Licensing page] (https://doc.arcgis.com/en/arcgis-storymaps/reference/licensing.htm).
+You can still include images and video, embed map tours, and use the swipe tool. You can read more about features on the [ArcGIS Storymap Licensing page](https://doc.arcgis.com/en/arcgis-storymaps/reference/licensing.htm).
 
 A free account on ArcGIS online does not allow you to do any spatial analysis on your webmap like you could on a desktop GIS, however it does allow styling, filtering, etc. 
 
