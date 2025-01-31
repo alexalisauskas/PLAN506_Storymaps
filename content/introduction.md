@@ -8,7 +8,11 @@ nav_order: 3
 ## [Web Map](https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm)
 An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions.Maps contain a basemap, a set of data layers (many of which include interactive pop-up windows with information about the data), an extent, and navigation tools to pan and zoom. In general, the basemap and layers are hosted and shared through ArcGIS Online. However, maps can also contain layers added directly to the map and layers and basemaps referenced externally. Many maps also contain scaled symbols and other smart styling that reveal data and patterns as you interact with it.
 
-<iframe src="https://www.arcgis.com/apps/instant/basic/index.html?appid=23193586bdc34314a976d475e2cb867e"></iframe>
+<iframe src='https://www.arcgis.com/apps/mapviewer/index.html?webmap=95a2288992a943a39f9f41e1d5cf2dcc'
+allowfullscreen="true"
+width="80%" height="70%">
+</iframe>
+
 
 ## [Story Map](https://storymaps.arcgis.com/)
 
