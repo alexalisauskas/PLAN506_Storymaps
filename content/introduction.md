@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 ### [Story Map](https://storymaps.arcgis.com/)
-[ArcGIS StoryMaps (https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm)] is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Story Map enables multimedia cartography and allows users to tell a story with interactive map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
+[ArcGIS StoryMap] (https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm) is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Story Map enables multimedia cartography and allows users to tell a story with interactive map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
 
 Check out this example Storymap, [White Rock Lake Fire 9https://storymaps.arcgis.com/stories/ea8c2979aeb84539a9fc7dda1f6ad6cf0].
 
@@ -33,7 +33,7 @@ An ArcGIS free account can be created by anyone and is intended for noncommercia
 - image galleries
 - timelines
 
-You can still include images and video, embed map tours, and use the swipe tool. You can read more about features on the [ArcGIS Storymap Licensing page (https://doc.arcgis.com/en/arcgis-storymaps/reference/licensing.htm)].
+You can still include images and video, embed map tours, and use the swipe tool. You can read more about features on the [ArcGIS Storymap Licensing page] (https://doc.arcgis.com/en/arcgis-storymaps/reference/licensing.htm).
 
 A free account on ArcGIS online does not allow you to do any spatial analysis on your webmap like you could on a desktop GIS, however it does allow styling, filtering, etc. 
 
