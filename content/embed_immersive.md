@@ -11,8 +11,10 @@ You can combine text and image through immersive scrolling with **sidecar**. The
 
 Add your text, and select a visual to add - this could be a colour, image, map, or slide.
 
+
+
 ### Embed a map
-You can embed a **webnamap** that you've created on ArcGIS Online in your StoryMap. You can also create an **express map** using drawn features to include.
+You can embed a **webmap** that you've created on ArcGIS Online in your StoryMap. You can also create an **express map** using drawn features to include.
 
 ### Swipe
 You can use the Swipe to let readers easily compare two maps (webmap or express) or images with an interactive slider. This is great to show changes over time. 
