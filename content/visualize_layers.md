@@ -21,6 +21,7 @@ You can download the data below and add each file as a layer to your ArcGIS Onli
 
 
 ## Styles
+The Style tools available to you will depend on the features in your layer.
 
 ### Counts and Amounts
 Read more about [Data Classification Methods](https://pro.arcgis.com/en/pro-app/latest/help/mapping/layer-properties/data-classification-methods.htm) and how you might want to use them.
@@ -32,7 +33,8 @@ If you want to create a Swipe on your Storymap, the Filter function can be very 
 
 <img src="images/Filter_Heritage.png" alt="fig1" style="width:400px;"/>
 
-To try {: .label .label-green } 
+To Try
+{: .label .label-green }
 - On the heritage_sites layer, try filtering to include only archeological sites
 - On the Bikeways layer, try filtering to include only bikeways created in the 1990s
 
