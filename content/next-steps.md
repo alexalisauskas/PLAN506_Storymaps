@@ -15,8 +15,3 @@ There are a lot of resources available to further explore ArcGIS Online, some of
 - [Telling the Truth - Data classification](http://uxblog.idvsolutions.com/2011/10/telling-truth.html)
 - [Better Breaks Define Your Map’s Purpose](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/better-breaks-define-your-maps-purpose/)
 - [ArcGIS Arcade for Creating Expressions and Coding within your Map](https://storymaps.arcgis.com/stories/e5c8528325c84d56b24afddaa796bfac)
-
-## ArcGIS Storymap Alternatives
-
-
-Thank you for attending today's workshop!
