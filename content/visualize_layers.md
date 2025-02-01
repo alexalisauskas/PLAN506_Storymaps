@@ -7,9 +7,29 @@ parent: Create a Web Map
 
 ### Visualize Your Layer Data
 
-To Do
-{: .label .label-green }
-Click on the ellipsis next to the **Deaths** layer under **Layers** and select **Show properties**.
+## Sample Data
+
+Download these 3 GeoJSON files (a polygon layer, a point layer, and a line layer) to play around with the different visualizing features on ArcGIS ONline.
+
+Vancouver Commuters by Local Area 2016
+
+Vancouver Bike Paths
+
+Vancouver Heritage Sites
+
+## Styles
+
+## Filtering for certain elements
+
+## Aggregation
+
+## Pop Ups
+
+## Fields
+
+## Labels
+
+## Add Sketch
 
 *1*{: .circle .circle-blue} In the **Properties** pane on the right, click on **Edit layer style** under **Symbology**.
 The **Styles** pane will open.
@@ -33,10 +53,7 @@ The distribution of deaths across the world is now much more visible.
 
 But because the data is represented differently depending on the country, the symbology does not accurately represent the number of deaths per country. As mentioned before, some countries have death counts by city, some by county, and some only at the country level.
 
-Let's experiment with another kind of symbology. Using the Map Viewer Classic, it was much easier to create copies of layers. Some of the functionality from Map Viewer Classic is still not available in the new Map Viewer, which has certain elements not available in the Classic Viewer.
-
-Instead of creating a duplicate layer to symbolize differently, we'll re-add the same layer from the Living Atlas in the same way we did before.
-
+Let's experiment with another kind of symbology. Using the Map Viewer Classic, it was much easier to create copies of layers. Some of the functionality from Map V
 *5*{: .circle .circle-blue} First get rid of the three layers we're not using by clicking the ellipsis next to each and selecting **Remove**.
 
 *6*{: .circle .circle-blue} Then click **Add layer** and use the Living Atlas to add the same **Coronavirus COVID-19 Cases V2** layer.
