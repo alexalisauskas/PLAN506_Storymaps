@@ -49,8 +49,16 @@ You can enable aggregation on your map.
 Spatial aggregation is one method for visualizing high-density data. Read more about [best practices for visualizing high-density data](https://doc.arcgis.com/en/arcgis-online/reference/best-practices-high-density-data.htm)
 
 ### Pop Ups
+Pop-ups can bring focus to the attributes associated with each layer in the map, such as hiking trails, land use types, or unemployment rates. They can contain attachments, images, charts, and text, and they can link to external web pages. 
+
+The Pop Ups tool lets you configure which attributes are displayed and how. You can edit how your pop up s titled, and determine which fields to include. You can also add content, like images, charts, or text.
+
+<img src="images/PopUps.png" alt="fig1" style="width:400px;"/>
 
 ### Fields
+The fields feature lets you edit field elements for your geographic attributes. In the free account, you can rename fields, and select decimal points. 
+
+<img src="images/Fields.png" alt="fig1" style="width:400px;"/>
 
 ### Labels
 The Label feature lets you add labels for various elements on your map. Click enable, then select which field you want to serve as a label. In the examplbe below, the neighbourhood name field is being used as a label.
