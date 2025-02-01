@@ -5,6 +5,8 @@ nav_order: 8
 parent: Create a Web Map
 
 ---
+# Other Visualization Tools
+
 ## Filter
 Use the filter feature to create a condition and determine what shows up on your map. This feature is useful if you have data that varies in type/category or date. you can also filter to only include features in a certain neighbourhood.
 
