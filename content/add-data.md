@@ -28,3 +28,19 @@ Click on **Layers**, then click on the **Add** button.
 From the dropdown arrow next to My Content, select Living Atlas and you can search for layers to add.
 
 *Note: If you only have a public ArcGIS account, you will have access to fewer layers in the Living Atlas.*
+
+## Displaying Layers
+
+You can add as many layers as you want and they will display simultaneously.
+
+Next to the layer name, you will see an eye and three dots. Click on the eye to make the layer visible or invisible. 
+
+If you click on the three dots next to the layer name, you have the following options:
+- Zoom to layer: Will zoom your map to the layer location
+- Show properties: Displays things like symbology
+- Attribute table: Shows the data in a tabular format
+- Rename and Remove
+
+<img src="images/LayerOptions.png" alt="fig1" style="width:400px;"/>
+
+Layer order matters. The higher a layer is in the panel, the higher (hence, more visible) it’ll be in the map view. If you want to represent points or lines over polygons, for instance, make sure those elements are higher. You can move layers by clicking on the 6 dots to the left of the layer name and dragging.
