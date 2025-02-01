@@ -5,7 +5,7 @@ nav_order: 5
 parent: Create a Web Map
 ---
 
-## Find Data to add to your map on Vnacouver Open Data Portal
+## Find Data to add to your map on Vancouver Open Data Portal
 
 [The Vancouver Open Data Portal](https://opendata.vancouver.ca/pages/home/) is an excellent source for a variety of municipal data, including geographic data layers such as point, lines, polygons, and raster images. 
 
