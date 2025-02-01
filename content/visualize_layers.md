@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Symbology
-nav_order: 4
+title: Visualize Your Layer Data
+nav_order: 6
 parent: Create a Web Map
 ---
 
-## SYMBOLOGY
+### Visualize Your Layer Data
 
 To Do
 {: .label .label-green }
