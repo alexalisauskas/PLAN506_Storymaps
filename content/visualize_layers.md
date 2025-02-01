@@ -30,7 +30,7 @@ Use the filter feature to create a condition and determine what shows up on your
 
 If you want to create a Swipe on your Storymap, the Filter function can be very useful to single out data and create the individual maps that make up the Swipe. Once you've filtered the data you want to show, make sure to "Save as" your map. In the example below I have filtered heritage sites in the local area of Kitsilano.
 
-<img src="images/VancouverData.png" alt="fig1" style="width:400px;"/>
+<img src="images/Filter_Heritage.png" alt="fig1" style="width:400px;"/>
 
 To try{: .label .label-green } 
 - On the heritage_sites layer, try filtering to include only archeological sites
