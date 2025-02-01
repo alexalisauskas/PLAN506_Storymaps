@@ -48,3 +48,5 @@ Layer order matters. The higher a layer is in the panel, the higher (hence, more
 ## Reusing Layers
 
 Once you've uploaded a layer file to ArcGIS Online, it will be stored in your content. You can use that layer in other maps by clicking on Add, and going to My Content.
+
+<img src="images/LayersMycontent.png" alt="fig1" style="width:400px;"/>
