@@ -39,7 +39,7 @@ If you want to compare data from two fields, you can use Compare A to B. The fir
 
 The map below represents Walker commuters as a percent of total walkers.
 
-<img src="images/CompareMap.png" alt="fig1" style="width:400px;"/>
+<img src="images/ConpareMap.png" alt="fig1" style="width:400px;"/>
 
 There are other comparison maps you can create as well. Play around with adding multiple data fields and seeing what comes up. Click on the i to learn more about each and how to use it.
 
