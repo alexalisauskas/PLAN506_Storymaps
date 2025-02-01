@@ -5,9 +5,9 @@ nav_order: 6
 parent: Create a Web Map
 ---
 
-## Visualize Your Layer Data
+# Visualize Your Layer Data
 
-### Sample Data
+## Sample Data
 
 You can download the data below and add each file as a layer to your ArcGIS Online webmap to play around with features.
 
@@ -20,9 +20,9 @@ You can download the data below and add each file as a layer to your ArcGIS Onli
 [Download Data](./StorymapsWorkshopData.zip){: .btn .btn-blue }
 
 
-### Styles
+## Styles
 
-#### Counts and Amounts
+### Counts and Amounts
 Read more about [Data Classification Methods](https://pro.arcgis.com/en/pro-app/latest/help/mapping/layer-properties/data-classification-methods.htm) and how you might want to use them.
 
 ### Filtering for certain elements
@@ -32,7 +32,7 @@ If you want to create a Swipe on your Storymap, the Filter function can be very 
 
 <img src="images/Filter_Heritage.png" alt="fig1" style="width:400px;"/>
 
-To try{: .label .label-green } 
+To try {: .label .label-green } 
 - On the heritage_sites layer, try filtering to include only archeological sites
 - On the Bikeways layer, try filtering to include only bikeways created in the 1990s
 
