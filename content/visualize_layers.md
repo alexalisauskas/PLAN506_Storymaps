@@ -46,15 +46,19 @@ You can enable aggregation on your map.
 
 <img src="images/Clustering.png" alt="fig1" style="width:400px;"/>
 
-Spatial aggregation is one method for visualizing high-density data. Read more about [Best practices for visualizing high-density data](https://doc.arcgis.com/en/arcgis-online/reference/best-practices-high-density-data.htm)
+Spatial aggregation is one method for visualizing high-density data. Read more about [best practices for visualizing high-density data](https://doc.arcgis.com/en/arcgis-online/reference/best-practices-high-density-data.htm)
 
 ### Pop Ups
 
 ### Fields
 
 ### Labels
+The Label feature lets you add labels for various elements on your map. Click enable, then select which field you want to serve as a label. In the examplbe below, the neighbourhood name field is being used as a label.
+
+<img src="images/Labels.png" alt="fig1" style="width:400px;"/>
 
 ### Add Sketch
+You can add add points, or draw lines, shapes, etc. with the Add Sketch function. This can be useful to highlight map features manually. Any sketch elements you add will create a new layer with those elements.
 
 #### More Resources
 - For more in-depth instructions and examples, visit our workshop [Visualizing Data in ArcGIS ONline}(https://ubc-library-rc.github.io/intro-AGOL/)
