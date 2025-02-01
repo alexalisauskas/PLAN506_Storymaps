@@ -61,4 +61,4 @@ The Label feature lets you add labels for various elements on your map. Click en
 You can add add points, or draw lines, shapes, etc. with the Add Sketch function. This can be useful to highlight map features manually. Any sketch elements you add will create a new layer with those elements.
 
 #### More Resources
-- For more in-depth instructions and examples, visit our workshop [Visualizing Data in ArcGIS ONline}(https://ubc-library-rc.github.io/intro-AGOL/)
+- For more in-depth instructions and examples, visit our workshop [Visualizing Data in ArcGIS ONline](https://ubc-library-rc.github.io/intro-AGOL/)
