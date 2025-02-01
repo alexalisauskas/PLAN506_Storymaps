@@ -28,11 +28,25 @@ Read more about [Data Classification Methods](https://pro.arcgis.com/en/pro-app/
 ### Filtering for certain elements
 Use the filter feature to create a condition and determine what shows up on your map. This feature is useful if you have data that varies in type/category or date. you can also filter to only include features in a certain neighbourhood.
 
+If you want to create a Swipe on your Storymap, the Filter function can be very useful to single out data and create the individual maps that make up the Swipe. Once you've filtered the data you want to show, make sure to "Save as" your map. In the example below I have filtered heritage sites in the local area of Kitsilano.
+
+<img src="images/VancouverData.png" alt="fig1" style="width:400px;"/>
+
 To try{: .label .label-green } 
 - On the heritage_sites layer, try filtering to include only archeological sites
-- On the Bikeways layer, try filtering out bikeways created in the 1990s
+- On the Bikeways layer, try filtering to include only bikeways created in the 1990s
 
 ### Aggregation
+
+You can enable aggregation on your map. 
+
+**Binning** aggregates data to predefined cells, representing point, line, or polygon data as a gridded polygon layer. The bins show point, line, or polygon density in geographic space instead of screen space.
+
+**Clustering** aggregate points into clusters and display them as one symbol. Clusters use proportionally sized symbols and change dynamically with the map scale. Clustering only works for point features.
+
+<img src="images/Clustering.png" alt="fig1" style="width:400px;"/>
+
+Spatial aggregation is one method for visualizing high-density data. Read more about [Best practices for visualizing high-density data](https://doc.arcgis.com/en/arcgis-online/reference/best-practices-high-density-data.htm)
 
 ### Pop Ups
 
