@@ -14,7 +14,7 @@ The public account and organization account have different user interface and fu
 
 ### Getting Started
 
-Zoom to the area of interest you want to work on. Select Save and Open and Save as to anchor your map and create your new map. Give it a name.
+Zoom to the area of interest you want to work on. Select Save and Open and Save as to anchor your map and create your new map. Give it a name. Throughout editing your map, save it to make sure to preserve your visualizations.
 
 <img src="images/WebmapZoom.png" style="width:400px;"/>
 
