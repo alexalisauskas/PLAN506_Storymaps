@@ -15,13 +15,15 @@ As long as the data you are looking at has a geographic element, you can downloa
 
 ## Add Data from File
 
-On the sidebar on the left, click on **Layers**, then on **Add layer** in the **Layers** pane that opens.
+On the sidebar on the left, click on **Layers**, then on click on the drop down arrow next to **Add layer** to add a layer from a file.
 
-You can add a layer from a URL or from file. If you are adding from file, a GeoJSON file is the easiest to use. Ensure you export any files from your GIS or download any files you find as GeoJSON.
+Ensure you export any files from your GIS or download any files you find as GeoJSON.
 
 ## Add Data from the Living Atlas
 
 You can also add data from the [Living Atlas](https://livingatlas.arcgis.com/en/), a large collection of geographic information compiled and created by [Esri.](https://www.esri.com/en-us/home)
+
+Click on **Layers**, then click on the **Add** button.
 
 From the dropdown arrow next to My Content, select Living Atlas and you can search for layers to add.
 
