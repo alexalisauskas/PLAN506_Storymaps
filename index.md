@@ -20,6 +20,7 @@ If you don't have an organizational account, you can [create an ArcGIS Public Ac
  
 Today we will be focusing on features in the Public account.
 
+
 ## Resources
 
 #### GIS Resources at UBC:
@@ -28,6 +29,7 @@ Today we will be focusing on features in the Public account.
 - Archive of all [Research Commons workshops](https://ubc-library-rc.github.io/all.html)
 - Contact UBC Library’s Geospatial team: `library.gis@ubc.ca`
 - Schedule a 1:1 consult with the geospatial team [here](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt)
+
 
 #### ArcGIS Online and Storymaps Resources
 * [ArcGIS General Storymaps Resources](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/resources)
