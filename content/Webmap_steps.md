@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 has_toc: true
 ---
-##Create a Web Map
+## Create a Web Map
 
 An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions. If you want to include any dynamic maps that include layer data in your StoryMap you will need to create it through ArcGIS online first. Sign into ArcGIS Online and select Map in the top banner to get started creating a webmap. 
 
