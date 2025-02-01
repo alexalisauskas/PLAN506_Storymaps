@@ -17,7 +17,7 @@ Vancouver Bike Paths is a line layer showing Vancouver bike paths
 
 Heritage Sites is a point layer showing Vancouver heritage sites.
 
-[Download Data](.content/StorymapsWorkshopData.zip){: .btn .btn-blue }
+[Download Data](content/StorymapsWorkshopData.zip){: .btn .btn-blue }
 
 
 ## Styles
