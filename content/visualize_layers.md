@@ -22,7 +22,15 @@ You can download the data below and add each file as a layer to your ArcGIS Onli
 
 ### Styles
 
+#### Counts and Amounts
+Read more about [Data Classification Methods](https://pro.arcgis.com/en/pro-app/latest/help/mapping/layer-properties/data-classification-methods.htm) and how you might want to use them.
+
 ### Filtering for certain elements
+Use the filter feature to create a condition and determine what shows up on your map. This feature is useful if you have data that varies in type/category or date. you can also filter to only include features in a certain neighbourhood.
+
+To try{: .label .label-green } 
+- On the heritage_sites layer, try filtering to include only archeological sites
+- On the Bikeways layer, try filtering out bikeways created in the 1990s
 
 ### Aggregation
 
