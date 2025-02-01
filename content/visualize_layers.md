@@ -11,11 +11,11 @@ parent: Create a Web Map
 
 You can download 3 GeoJSON files (to play around with the different visualizing features on ArcGIS Obline.
 
-[Vancouver Commuters by Local Area 2016 (Polygon)](https://github.com/alexalisauskas/PLAN506_Storymaps/blob/fd7022db970c5e4245ef95c8f0ff0a1ee5e01d03/content/Vancouver_Commuter_2016.geojson){: .btn .btn-blue }
+[Vancouver Commuters by Local Area 2016 (Polygon)](content/Vancouver_Commuter_2016.geojson){: .btn .btn-blue }
 
-[Vancouver Bike Paths (Lines)](https://github.com/alexalisauskas/PLAN506_Storymaps/blob/fd7022db970c5e4245ef95c8f0ff0a1ee5e01d03/content/bikeways.geojson){: .btn .btn-blue }
+[Vancouver Bike Paths (Lines)](content/bikeways.geojson){: .btn .btn-blue }
 
-[Vancouver Heritage Sites (Points)](https://github.com/alexalisauskas/PLAN506_Storymaps/blob/fd7022db970c5e4245ef95c8f0ff0a1ee5e01d03/content/heritage-sites.geojson){: .btn .btn-blue }
+[Vancouver Heritage Sites (Points)](content/heritage-sites.geojson){: .btn .btn-blue }
 
 ## Styles
 
