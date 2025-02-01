@@ -3,6 +3,9 @@ layout: default
 title: Introduction
 nav_order: 3
 ---
+# ArcGIS Online
+ArcGIS Online is a cloud-based software that allows you to organize and create GIS projects, which can come in the form of story maps, GIS files created with desktop applications, web maps (more on those below), and more.
+
 
 ### [Story Map](https://storymaps.arcgis.com/)
 [ArcGIS StoryMap](https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm) is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Story Map enables multimedia cartography and allows users to tell a story with interactive map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
