@@ -44,3 +44,7 @@ If you click on the three dots next to the layer name, you have the following op
 <img src="images/LayerOptions.png" alt="fig1" style="width:400px;"/>
 
 Layer order matters. The higher a layer is in the panel, the higher (hence, more visible) it’ll be in the map view. If you want to represent points or lines over polygons, for instance, make sure those elements are higher. You can move layers by clicking on the 6 dots to the left of the layer name and dragging.
+
+## Reusing Layers
+
+Once you've uploaded a layer file to ArcGIS Online, it will be stored in your content. You can use that layer in other maps by clicking on Add, and going to My Content.
