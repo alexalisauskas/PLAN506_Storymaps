@@ -9,13 +9,16 @@ parent: Create a Web Map
 
 ## Sample Data
 
-You can download 3 GeoJSON files (to play around with the different visualizing features on ArcGIS Obline.
+You can download the data below and add each file as a layer to your ArcGIS Online webmap to play around with features.
 
-[Vancouver Commuters by Local Area 2016 (Polygon)](./Vancouver_Commuter_2016.geojson){: .btn .btn-blue }
+Vancouver_Commuter_2016 is a polygon layer with commuter data joined to local area boundaries.
 
-[Vancouver Bike Paths (Lines)](./bikeways.geojson){: .btn .btn-blue }
+Vancouver Bike Paths is a line layer showing Vancouver bike paths
 
-[Vancouver Heritage Sites (Points)](./heritage-sites.geojson){: .btn .btn-blue }
+Heritage Sites is a point layer showing Vancouver heritage sites.
+
+[Download Data](.content/StorymapsWorkshopData.zip){: .btn .btn-blue }
+
 
 ## Styles
 
