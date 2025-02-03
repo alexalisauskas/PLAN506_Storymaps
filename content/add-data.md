@@ -11,7 +11,7 @@ parent: Create a Web Map
 
 As long as the data you are looking at has a geographic element, you can download it as a GeoJSON to add as a layer to your ArcGIS Online webmap. Use the export tab to download.
 
-<img src="images/VancouverData.png" alt="fig1" style="width:400px;"/>
+<img src="images/VancouverData.png" alt="fig1" style="width:600px;"/>
 
 ## Add Data from File
 
