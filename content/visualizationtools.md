@@ -8,7 +8,7 @@ parent: Create a Web Map
 # Other Visualization Tools
 
 ## Filter
-Use the filter feature to create a condition and determine what shows up on your map. This feature is useful if you have data that varies in type/category or date. you can also filter to only include features in a certain neighbourhood.
+Use the filter feature to create a condition and determine what shows up on your map. This feature is useful if you have data that varies in type/category or date. You can also filter to only include features in a certain neighbourhood.
 
 If you want to create a Swipe on your Storymap, the Filter function can be very useful to single out data and create the individual maps that make up the Swipe. Once you've filtered the data you want to show, make sure to "Save as" your map. In the example below I have filtered heritage sites in the local area of Kitsilano.
 
