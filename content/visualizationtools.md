@@ -25,7 +25,7 @@ You can enable aggregation on your map.
 
 **Binning** aggregates data to predefined cells, representing point, line, or polygon data as a gridded polygon layer. The bins show point, line, or polygon density in geographic space instead of screen space.
 
-**Clustering** aggregate points into clusters and display them as one symbol. Clusters use proportionally sized symbols and change dynamically with the map scale. Clustering only works for point features.
+**Clustering** aggregates points into clusters and displays them as one symbol. Clusters use proportionally sized symbols and change dynamically with the map scale. Clustering only works for point features.
 
 <img src="images/Clustering.png" alt="fig1" style="width:700px;"/>
 
