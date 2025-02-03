@@ -41,7 +41,7 @@ The Pop Ups tool lets you configure which attributes are displayed and how. You 
 ## Fields
 The fields feature lets you edit field elements for your geographic attributes. In the free account, you can rename fields, and select decimal points. 
 
-<img src="images/Fields.png" alt="fig1" style="width:400px;"/>
+<img src="images/Fields.png" alt="fig1" style="width:700px;"/>
 
 ## Labels
 The Label feature lets you add labels for various elements on your map. Click enable, then select which field you want to serve as a label. In the examplbe below, the neighbourhood name field is being used as a label.
