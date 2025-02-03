@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visualize Your Layer Data
-nav_order: 6
+nav_order: 8
 parent: Create a Web Map
 ---
 
