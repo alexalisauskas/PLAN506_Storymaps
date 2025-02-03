@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Other Visualization Tools
-nav_order: 8
+nav_order: 10
 parent: Create a Web Map
 
 ---
