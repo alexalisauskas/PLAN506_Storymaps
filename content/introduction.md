@@ -10,7 +10,13 @@ ArcGIS Online is a cloud-based software that allows you to organize and create G
 ### [Story Map](https://storymaps.arcgis.com/)
 [ArcGIS StoryMap](https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm) is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Story Map enables multimedia cartography and allows users to tell a story with interactive map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
 
-Check out this example StoryMap, [White Rock Lake Fire](https://arcg.is/0mSqvb0).
+Some example Storymaps
+- [White Rock Lake Fire](https://arcg.is/0mSqvb0)
+- ["We used to have a Tram": A short history of the Lagos steam tram in the early 1900s](https://storymaps.arcgis.com/stories/e4030e1ddc8b4f078cbe96c61a5c1db7)
+- [Maps and History of Kaibab National Forest](https://storymaps.arcgis.com/stories/ffb54e057a654655a73d3d2b6f8a7ae6)
+- [A River Interrupted](https://storymaps.arcgis.com/stories/62917edcb76c4e10868cbb7a79638282)
+- [Mapping Gentrification in Washington D.C.](https://storymaps.arcgis.com/stories/009773cc5c224421a66d1ce9ff089849)
+- [Voices of the Grand Canyon](https://storymaps.arcgis.com/stories/b22a6a09bb2344ff845d9efd3e4152f7)
 
 ### [Web Map](https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm)
 According to ESRI: "An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions...Maps contain a basemap, a set of data layers (many of which include interactive pop-up windows with information about the data), an extent, and navigation tools to pan and zoom. In general, the basemap and layers are hosted and shared through ArcGIS Online. However, maps can also contain layers added directly to the map and layers and basemaps referenced externally. Many maps also contain scaled symbols and other smart styling that reveal data and patterns as you interact with it."
