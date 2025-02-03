@@ -11,7 +11,7 @@ parent: Create a Web Map
 
 You can download the data below and add each file as a layer to your ArcGIS Online webmap to play around with features.
 
-**Vancouver_Commuter_2016.geojson** is a polygon layer with commuter data joined to local area boundaries.
+**Vancouver_Commuter_2016.geojson** is a polygon layer with commuter data from the 2016 census joined to local area boundaries.
 
 **bikeways.geojson** is a line layer showing Vancouver bike paths
 
