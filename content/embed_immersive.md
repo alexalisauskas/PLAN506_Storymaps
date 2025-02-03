@@ -2,7 +2,7 @@
 layout: default
 title: Embed immersive content
 nav_order: 5
-parent: Create a ArcGIS Online Storymap
+parent: Create an ArcGIS Online Storymap
 ---
 ## Embed immersive content and media to the Story Map
 
