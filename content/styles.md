@@ -38,7 +38,7 @@ The map below is a dot density map for public transit commuters in Vancouver.
 ## Heat Map
 A heat map shows areas of high activity with stronger colors that appear to glow hotter. It requires point features.
 
-<img src="images/heatmap.png" alt="fig1" style="width:700px;"/>
+<img src="images/Heatmap.png" alt="fig1" style="width:700px;"/>
 
 
 ## Types (Unique Symbol)
