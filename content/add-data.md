@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Add Data
-nav_order: 5
+nav_order: 7
 parent: Create a Web Map
 ---
 
