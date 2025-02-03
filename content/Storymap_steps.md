@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a ArcGIS Online Storymap
+title: Create an ArcGIS Online Storymap
 nav_order: 4
 has_children: true
 has_toc: true
